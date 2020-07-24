@@ -89,7 +89,7 @@ Invent a better dark mode color algorithm for PDF pages **and** exclude images a
 
 #### 3. Terminal: Close terminal buffer with EXIT signal
 
-**相关issue**: [#4](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues/4)
+**相关issue**: [#3](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues/3)
 
 ***相关PR***: [#324](https://github.com/manateelazycat/emacs-application-framework/pull/324)，[#334](https://github.com/manateelazycat/emacs-application-framework/pull/334)
 
