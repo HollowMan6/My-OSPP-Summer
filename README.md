@@ -13,16 +13,23 @@
 
 这里是我的"开源软件供应链点亮计划——暑期"活动记录与成果
 
-|  年份   |  申请ID   | 项目ID  | 社区 |  项目名称  |  难度  | 申请人数  |  中选  |  最终选择  |  申请材料  | 中期报告 |
+|  年份   |  申请ID   | 项目ID  | 社区 |  项目名称  |  难度  | 申请人数  |  中选  |  最终选择  |  申请材料 |
 |  ----  | ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |
-| [2020](https://isrc.iscas.ac.cn/summer2020/#/started)  | 69 | 2012153  |[*GNU Emacs（中文）*](https://isrc.iscas.ac.cn/summer2020/#/organisations/emacs)|[PDF: Invent a better dark mode color algorithm for PDF pages **and** exclude images and graphs](https://manateelazycat.github.io/eaf/emacs/2020/05/10/eaf-community.html) | 高 | 5 | * | * |[点此访问](2020-41-2020098)| [点此访问](2020-Midterm-Report.md) |
-| [2020](https://isrc.iscas.ac.cn/summer2020/#/started)  | 41 | 2020098  | [*OpenCV China*](https://isrc.iscas.ac.cn/summer2020/#/organisations/opencv) |[Implementation of QR-codes decoder and encoder](http://www.opencv.org.cn/?page_id=411) | 中 | 1 | * |   |[点此访问](2020-69-2012153)| |
+| [2020](https://isrc.iscas.ac.cn/summer2020/#/started)  | 69 | 2012153  |[*GNU Emacs（中文）*](https://isrc.iscas.ac.cn/summer2020/#/organisations/emacs)|[PDF: Invent a better dark mode color algorithm for PDF pages **and** exclude images and graphs](https://manateelazycat.github.io/eaf/emacs/2020/05/10/eaf-community.html) | 高 | 1 | * | * |[点此访问](2020-41-2020098)|
+| [2020](https://isrc.iscas.ac.cn/summer2020/#/started)  | 41 | 2020098  | [*OpenCV China*](https://isrc.iscas.ac.cn/summer2020/#/organisations/opencv) |[Implementation of QR-codes decoder and encoder](http://www.opencv.org.cn/?page_id=411) | 中 | 5 | * |   |[点此访问](2020-69-2012153)|
+
+## 2020
+
+[中期报告](2020-Midterm-Report.md)，[项目地址](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153)，[项目Wiki](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/wikis/home)，[项目Issue](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues?scope=all&utf8=%E2%9C%93&state=all)
 
 # My Open Source Promotion Plan - Summer
 This is my work and record under Open Source Promotion Plan - Summer.
 
-|  Year   |  Application ID   | Project ID  | Community |  Project Name  |  Level  | Applicant Number  |  Successful?  |  Selected  |  Application Material  | Midterm Report |
-|  ----  | ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |
-| [2020](https://isrc.iscas.ac.cn/summer2020/#/started)  | 69 | 2012153  |[*GNU Emacs（中文）*](https://isrc.iscas.ac.cn/summer2020/#/organisations/emacs)|[PDF: Invent a better dark mode color algorithm for PDF pages **and** exclude images and graphs](https://manateelazycat.github.io/eaf/emacs/2020/05/10/eaf-community.html) | High | 5 | * | * |[Click to visit](2020-41-2020098)| [Click to visit](2020-Midterm-Report.md)  |
-| [2020](https://isrc.iscas.ac.cn/summer2020/#/started)  | 41 | 2020098  | [*OpenCV China*](https://isrc.iscas.ac.cn/summer2020/#/organisations/opencv) |[Implementation of QR-codes decoder and encoder](http://www.opencv.org.cn/?page_id=411) | Medium | 1 | * |   |[Click to visit](2020-69-2012153)|  |
+|  Year   |  Application ID   | Project ID  | Community |  Project Name  |  Level  | Applicant Number  |  Successful?  |  Selected  |  Application Material  |
+|  ----  | ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |
+| [2020](https://isrc.iscas.ac.cn/summer2020/#/started)  | 69 | 2012153  |[*GNU Emacs（中文）*](https://isrc.iscas.ac.cn/summer2020/#/organisations/emacs)|[PDF: Invent a better dark mode color algorithm for PDF pages **and** exclude images and graphs](https://manateelazycat.github.io/eaf/emacs/2020/05/10/eaf-community.html) | High | 1 | * | * |[Click to visit](2020-41-2020098)|
+| [2020](https://isrc.iscas.ac.cn/summer2020/#/started)  | 41 | 2020098  | [*OpenCV China*](https://isrc.iscas.ac.cn/summer2020/#/organisations/opencv) |[Implementation of QR-codes decoder and encoder](http://www.opencv.org.cn/?page_id=411) | Medium | 5 | * |   |[Click to visit](2020-69-2012153)|
 
+## 2020
+
+[Midterm Report](2020-Midterm-Report.md)，[Project Address](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153)，[Project Wiki](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/wikis/home)，[Project Issue](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues?scope=all&utf8=%E2%9C%93&state=all)
