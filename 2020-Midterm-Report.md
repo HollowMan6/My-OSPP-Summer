@@ -45,7 +45,7 @@ Invent a better dark mode color algorithm for PDF pages **and** exclude images a
 
 - **2020.7.17-7.19** 完成Browser: Autofill password by storing password in a database
 
-- **2020.7.21-现在** 完成Browser: Smart select text area using cursor和Browser: Mouseless browsing. [#270](https://github.com/manateelazycat/emacs-application-framework/issues/270)，额外增加用 marker 选中文本模块，Minor mode中按键无法覆盖的BUG尚未解决。
+- **2020.7.21-8.2** 完成Browser: Smart select text area using cursor和Browser: Mouseless browsing. [#270](https://github.com/manateelazycat/emacs-application-framework/issues/270)，额外增加用 marker 选中文本模块，Minor mode中按键无法覆盖的BUG尚未解决。
 
 ### 遇到的问题及解决方案
 
