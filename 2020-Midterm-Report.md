@@ -250,7 +250,7 @@ Error running timer: (file-missing "Setting current directory" "没有那个文�
 
 **相关issue**: [#10](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues/10)，[#11](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues/11)，[#270](https://github.com/manateelazycat/emacs-application-framework/issues/270)
 
-***相关PR***: [#345](https://github.com/manateelazycat/emacs-application-framework/pull/345)，[#349](https://github.com/manateelazycat/emacs-application-framework/pull/349)，[#357](https://github.com/manateelazycat/emacs-application-framework/pull/357)，[#364](https://github.com/manateelazycat/emacs-application-framework/pull/364)
+***相关PR***: [#345](https://github.com/manateelazycat/emacs-application-framework/pull/345)，[#349](https://github.com/manateelazycat/emacs-application-framework/pull/349)，[#357](https://github.com/manateelazycat/emacs-application-framework/pull/357)，[#364](https://github.com/manateelazycat/emacs-application-framework/pull/364)，[#367](https://github.com/manateelazycat/emacs-application-framework/pull/367)
 
 为EAF浏览器添加插入光标浏览功能。它可以用于智能选择文本区域。
 
@@ -306,6 +306,10 @@ Error running timer: (file-missing "Setting current directory" "没有那个文�
 优化“插入符号”浏览光标的暗模式颜色算法，使其可以遵循eaf-browser-dark-mode设置。
 
 ![image](https://user-images.githubusercontent.com/43995067/89268582-512d7600-d66b-11ea-98be-8d93457080ed.png)
+
+修复浏览器焦点问题导致有时使用caret选中文字时为灰色而不是蓝色（焦点不在浏览器中）：
+
+![Screen Capture_select-area_20200806111435](https://user-images.githubusercontent.com/12422335/89549494-5f4bd580-d7d6-11ea-99b1-c71b4f31a3a4.png)
 
 #### 12. Terminal: Refresh page after server is ready because sometimes terminal is blank when opened 和 13. Terminal: Fix error in connection establishment: net::ERR_CONNECTION_REFUSED
 
