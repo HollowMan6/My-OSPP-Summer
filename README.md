@@ -20,7 +20,7 @@
 
 ## 2020
 
-[中期报告](2020-Midterm-Report.md)，[项目地址](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153)，[项目Wiki](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/wikis/home)，[项目Issue](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues?scope=all&utf8=%E2%9C%93&state=all)
+[中期报告](2020-Midterm-Report.md)，[中期考核导师意见](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues/22#note_162737)，[项目地址](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153)，[项目Wiki](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/wikis/home)，[项目Issue](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues?scope=all&utf8=%E2%9C%93&state=all)
 
 # My Open Source Promotion Plan - Summer
 This is my work and record under Open Source Promotion Plan - Summer.
@@ -32,4 +32,4 @@ This is my work and record under Open Source Promotion Plan - Summer.
 
 ## 2020
 
-[Midterm Report](2020-Midterm-Report.md)，[Project Address](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153)，[Project Wiki](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/wikis/home)，[Project Issue](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues?scope=all&utf8=%E2%9C%93&state=all)
+[Midterm Report](2020-Midterm-Report.md)，[Midterm Mentor's Comments](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues/22#note_162737)，[Project Address](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153)，[Project Wiki](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/wikis/home)，[Project Issue](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues?scope=all&utf8=%E2%9C%93&state=all)
