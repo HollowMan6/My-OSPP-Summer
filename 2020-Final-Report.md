@@ -47,7 +47,7 @@ Invent a better dark mode color algorithm for PDF pages **and** exclude images a
 
 - **2020.7.21-8.5** 完成Browser: Smart select text area using cursor和Browser: Mouseless browsing. [#270](https://github.com/manateelazycat/emacs-application-framework/issues/270)，额外增加用 marker 选中文本模块，Caret适配暗模式。
 
-- **2020.7.21-8.5** 额外完成Add PDF Rotation function for PDF viewer [#379](https://github.com/manateelazycat/emacs-application-framework/issues/379)
+- **2020.8.25** 额外完成Add PDF Rotation function for PDF viewer [#379](https://github.com/manateelazycat/emacs-application-framework/issues/379)
 
 ### 遇到的问题及解决方案
 
