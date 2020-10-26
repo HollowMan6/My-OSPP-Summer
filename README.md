@@ -20,6 +20,10 @@
 
 ## 2020
 
+[![](2020-Final-Evaluation.png)](https://isrc.iscas.ac.cn/summer2020/#/announcement)
+
+### [EAF浏览器可以支持快捷键选中文本功能了！](https://manateelazycat.github.io/emacs/eaf/2020/07/22/eaf-support-caret-browse.html)
+
 [结项报告](2020-Final-Report.md)，[中期考核导师意见](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues/22#note_162737)，[结项考核导师意见](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues/25#note_175301)，[项目地址](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153)，[项目Wiki](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/wikis/home)，[项目Issue](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues?scope=all&utf8=%E2%9C%93&state=all)
 
 # My Open Source Promotion Plan - Summer
@@ -31,5 +35,9 @@ This is my work and record under Open Source Promotion Plan - Summer.
 | [2020](https://isrc.iscas.ac.cn/summer2020/#/started)  | 41 | 2020098  | [*OpenCV China*](https://isrc.iscas.ac.cn/summer2020/#/organisations/opencv) |[Implementation of QR-codes decoder and encoder](http://www.opencv.org.cn/?page_id=411) | Medium | 5 | * |   |[Click to visit](2020-69-2012153)|
 
 ## 2020
+
+[![](2020-Final-Evaluation.png)](https://isrc.iscas.ac.cn/summer2020/#/announcement)
+
+### [EAF Browser now can support shortcut key to select text!](https://manateelazycat.github.io/emacs/eaf/2020/07/22/eaf-support-caret-browse.html)
 
 [Final Report](2020-Final-Report.md)(Please click the PR links to view details since they are all in English in Github Description)，[Midterm Mentor's Comments](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues/22#note_162737)，[Final Mentor's Comments](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues/25#note_175301)，[Project Address](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153)，[Project Wiki](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/wikis/home)，[Project Issue](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues?scope=all&utf8=%E2%9C%93&state=all)
