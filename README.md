@@ -11,6 +11,9 @@
 [![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
 [![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/My-OSPP-Summer.svg)](../../archive/master.zip)
 
+## 2020 Certificate 证书
+![](2020Certificate.jpg)
+
 这里是我的"开源软件供应链点亮计划——暑期"活动记录与成果
 
 |  年份   |  申请ID   | 项目ID  | 社区 |  项目名称  |  难度  | 申请人数  |  中选  |  最终选择  |  申请材料 |
@@ -20,7 +23,7 @@
 
 ## 2020
 
-[![](2020-Final-Evaluation.png)](https://isrc.iscas.ac.cn/summer2020/#/announcement)
+[![](2020-Final-Evaluation.png)](https://isrc.iscas.ac.cn/summer2020/#/announcement#2012153)
 
 ### [EAF浏览器可以支持快捷键选中文本功能了！](https://manateelazycat.github.io/emacs/eaf/2020/07/22/eaf-support-caret-browse.html)
 
@@ -36,7 +39,7 @@ This is my work and record under Open Source Promotion Plan - Summer.
 
 ## 2020
 
-[![](2020-Final-Evaluation.png)](https://isrc.iscas.ac.cn/summer2020/#/announcement)
+[![](2020-Final-Evaluation.png)](https://isrc.iscas.ac.cn/summer2020/#/announcement#2012153)
 
 ### [EAF Browser now can support shortcut key to select text!](https://manateelazycat.github.io/emacs/eaf/2020/07/22/eaf-support-caret-browse.html)
 
