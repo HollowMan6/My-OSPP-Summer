@@ -11,6 +11,8 @@
 [![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
 [![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/My-OSPP-Summer.svg)](../../archive/master.zip)
 
+[![](https://gh-card.dev/repos/manateelazycat/emacs-application-framework.svg?link_target=_blank)](https://github.com/manateelazycat/emacs-application-framework)
+
 ## 2020 Certificate 证书
 ![](2020Certificate.jpg)
 
