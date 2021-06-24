@@ -14,7 +14,7 @@
 [![](https://gh-card.dev/repos/manateelazycat/emacs-application-framework.svg?link_target=_blank)](https://github.com/manateelazycat/emacs-application-framework)
 
 ## 2020 Certificate 证书
-![](2020Certificate.jpg)
+![](https://hollowman6.github.io/img/badges/2020-OSPP-Certificate.jpg)
 
 这里是我的"开源软件供应链点亮计划——暑期"活动记录与成果
 
