@@ -37,7 +37,7 @@ This is my work and record under Open Source Promotion Plan - Summer.
 
 |  Year   |  Application ID   | Project ID  | Community |  Project Name  |  Level  | Applicant Number  |  Successful?  |  Selected  |  Application Material  |
 |  ----  | ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |
-[2021](https://summer.iscas.ac.cn/#/homepage?lang=en)  |   | 210010031  | [*openEuler*](https://summer.iscas.ac.cn/#/org/orgdetail/openeuler?lang=en) |[Development of ISO writing DDE desktop application](https://summer.iscas.ac.cn/#/org/prodetail/210010031?lang=en) | High | 3 | * | * |[点此访问](2021-210010031)|
+[2021](https://summer.iscas.ac.cn/#/homepage?lang=en)  |   | 210010031  | [*openEuler*](https://summer.iscas.ac.cn/#/org/orgdetail/openeuler?lang=en) |[Development of ISO writing DDE desktop application](https://summer.iscas.ac.cn/#/org/prodetail/210010031?lang=en) | High | 3 | * | * |[Click to visit](2021-210010031)|
 | [2020](https://isrc.iscas.ac.cn/summer2020/#/started)  | 69 | 2012153  |[*GNU Emacs（China）*](https://isrc.iscas.ac.cn/summer2020/#/organisations/emacs)|[PDF: Invent a better dark mode color algorithm for PDF pages **and** exclude images and graphs](https://manateelazycat.github.io/eaf/emacs/2020/05/10/eaf-community.html) | High | 1 | * | * |[Click to visit](2020-41-2020098)|
 | [2020](https://isrc.iscas.ac.cn/summer2020/#/started)  | 41 | 2020098  | [*OpenCV China*](https://isrc.iscas.ac.cn/summer2020/#/organisations/opencv) |[Implementation of QR-codes decoder and encoder](http://www.opencv.org.cn/?page_id=411) | Medium | 5 | * |   |[Click to visit](2020-69-2012153)|
 
