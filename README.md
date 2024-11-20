@@ -17,6 +17,9 @@
 ## 2021 Certificate 证书
 ![](https://hollowman6.github.io/img/badges/2021-OSPP-Certificate.jpg)
 
+## 2024 Certificate 证书
+![](https://hollowman6.github.io/img/badges/2024-OSPP-Certificate.jpg)
+
 这里是我的"开源软件供应链点亮计划——暑期"活动记录与成果
 
 |  年份   |  申请ID   | 项目ID  | 社区 |  项目名称  |  难度  | 申请人数  |  中选  |  最终选择  |  申请材料 |
@@ -26,10 +29,6 @@
 | [2021](https://summer-ospp.ac.cn/2021/#/?lang=chi)  |   | 210010031  | [*openEuler*](https://summer-ospp.ac.cn/2021/#/org/orgdetail/openeuler?lang=chi) |[开发iso刻录DDE桌面应用](https://summer-ospp.ac.cn/2021/#/org/orgdetail/openeuler/proid210010031?lang=chi) | 高 | 3 | * | * |[点此访问](2021-210010031)|
 | [2024](https://summer-ospp.ac.cn/?lang=chi)  |   | 24f5f0165  | [*OceanBase*](https://summer-ospp.ac.cn/org/orgdetail/f5f4a623-8521-4409-8ddf-ec068f4778d3?lang=chi) |[支持IVFPQ向量索引算法](https://summer-ospp.ac.cn/org/prodetail/24f5f0165?lang=chi) | 进阶 |  | * | * |[点此访问](2024-24f5f0165)|
 
-## 2024
-
-[设计文档](2024-24f5f0165/README.md)
-
 ## 2020
 
 [![](2020-69-2012153/2020-Final-Evaluation.png)](https://isrc.iscas.ac.cn/summer2020/#/announcement#2012153)
@@ -38,7 +37,9 @@
 
 [结项报告](2020-69-2012153/2020-Final-Report.md)，[中期考核导师意见](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues/22#note_162737)，[结项考核导师意见](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues/25#note_175301)，[项目地址](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153)，[项目Wiki](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/wikis/home)，[项目Issue](https://isrc.iscas.ac.cn/gitlab/summer2020/students/proj-2012153/-/issues?scope=all&utf8=%E2%9C%93&state=all)
 
-## [2021结项报告](2021-210010031/2021-Final-Report.md)
+## [2021 结项报告](2021-210010031/2021-Final-Report.md)
+
+## [2024 设计文档](2024-24f5f0165/README.md)
 
 # My Open Source Promotion Plan - Summer
 This is my work and record under Open Source Promotion Plan - Summer.
